@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Welcome</title>
 </head>
 <body>
-
+	<form action="AddStudent.jsp">
+		<input type="submit" value="Add New Student">
+	</form><br/>
 </body>
 </html>
