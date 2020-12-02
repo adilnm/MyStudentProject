@@ -10,5 +10,8 @@
 	<form action="AddStudent.jsp">
 		<input type="submit" value="Add New Student">
 	</form><br/>
+	<form action="ViewDetailsServlet">
+		<input type="submit" value="View Student Details">
+	</form>
 </body>
 </html>
